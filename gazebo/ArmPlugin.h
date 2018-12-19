@@ -85,6 +85,7 @@ private:
 	float    lastGoalDistance;
 	float    avgGoalDelta;
 	int	    successfulGrabs;
+	int	    successfulGrabsBase;
 	int	    totalRuns;
 	int      runHistoryIdx;
 	int	    runHistoryMax;
